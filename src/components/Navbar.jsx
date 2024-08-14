@@ -108,7 +108,7 @@ const Navbar = ({ onSelectCategory, onSearch }) => {
         <nav className="navbar navbar-expand-lg fixed-top">
           <div className="container-fluid">
             <a className="navbar-brand" href="https://siva-kumar-portfolio.netlify.app/">
-              <img src="src/assets/skprotfoli.png" alt="Siva Kumar" style={{ width: '170px', height: '35px' }} />
+              <img src="src\assets\sivakumar.png" alt="Siva Kumar" style={{ width: '170px', height: '35px' }} />
             </a>
             <button
               className="navbar-toggler"
